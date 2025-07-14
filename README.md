@@ -7,7 +7,8 @@ PHP REVERSE SHELL | BYPASS METHODS | BACKDOOR | FILE MANAGER SHELL
 
 
 **TinyFileManager** is a lightweight, single-file PHP file manager designed for managing files directly from the browser. Perfect for developers, sysadmins, or anyone looking for a fast, minimal web-based file manager with built-in code editor support.
-
+# Username:admin
+# Password:admin@123
 ---
 
 ## ✨ Features
