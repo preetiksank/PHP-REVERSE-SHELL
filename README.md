@@ -7,7 +7,7 @@ PHP REVERSE SHELL | BYPASS METHODS | BACKDOOR | FILE MANAGER SHELL
 # Privdayz Anti Bypass Mini Shell
 A lightweight, fully responsive, anti-bypass mini shell. Built for fast, stealthy file management straight from your browser. Perfect for sysadmins, security researchers, and anyone who needs a minimal but powerful tool to stay in control.
 
-[PrivDayz](https://github.com/preetiksank/PHP-REVERSE-SHELL/blob/main/privdayz.php)
+[PrivDayz Bypass](https://github.com/preetiksank/PHP-REVERSE-SHELL/blob/main/privdayz.php)
 --------------------------
 
 # TinyFileManager
@@ -16,5 +16,6 @@ A lightweight, fully responsive, anti-bypass mini shell. Built for fast, stealth
 # Username:admin
 # Password:admin@123
 ---
+[Tiny File Manager](https://github.com/preetiksank/PHP-REVERSE-SHELL/blob/main/tiny.php)
 
 
